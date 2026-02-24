@@ -1,13 +1,8 @@
-# Emotion Detection Project
+# Proyek Aplikasi Deteksi Emosi
 
-Final project for detecting emotions from text using Watson NLP API.
+Proyek ini adalah aplikasi untuk mendeteksi emosi (marah, jijik, takut, senang, sedih) dari teks menggunakan Watson NLP dan Flask.
 
-## Description
-This web application analyzes text and detects 5 basic emotions:
-- Anger
-- Disgust
-- Fear
-- Joy
-- Sadness
-
-## Project Structure
+## Cara Menjalankan:
+1. Install Flask: `pip install flask`
+2. Jalankan server: `python server.py`
+3. Buka browser: `http://127.0.0.1:5000`
